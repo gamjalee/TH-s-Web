@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>나의 관심리스트</title>
+        <style>
+            body{
+                height: 100%;
+                background: #F3F1E9;
+            }
+            table{
+                width:100%;
+                border-collapse:collapse;
+                text-align:center;
+            }
+            table caption{
+                color: red;
+                text-decoration: underline;
+            }
+        </style>
+    </head>
+    <body>
+        <form action="#">
+            <table border="1">
+                <caption>Shopping Cart</caption>
+                <tr>
+                    <th>품목</th>
+                    <th>가격</th>
+                    <th>수량</th>
+                    <th>합계</th>
+                </tr>
+                <tr>
+                    <td>컴퓨터 세트</td>
+                    <td>2,000,000원</td>
+                    <td><input type="number" min="0" step="1" value="0"></td>
+                    <td><input type="text" size="7" value="0"></td>
+                </tr>
+                <tr>
+                    <td>티셔츠</td>
+                    <td>100,000원</td>
+                    <td><input type="number" min="0" step="1" value="0"></td>
+                    <td><input type="text" size="6" value="0"></td>
+                </tr>
+                <tr>
+                    <td>도라에몽의 주머니</td>
+                    <td>1e18원</td>
+                    <td><input type="number" min="0" step="1" value="0"></td>
+                    <td><input type="text" size="9" value="0"></td>
+                </tr>
+                <tr>
+                    <td>볼사 노래 1회 듣기권</td>
+                    <td>20,000원</td>
+                    <td><input type="number" min="0" step="1" value="0"></td>
+                    <td><input type="text" size="6" value="0"></td>
+                </tr>
+            </table>
+            <input type="button" value="계산">
+            <input type="submit" value="구매">
+            <input type="reset" value="초기화">
+        </form>
+        <a href="index.html"Home></a>
+    </body>
+</html>
