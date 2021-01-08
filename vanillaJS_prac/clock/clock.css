@@ -1,9 +1,10 @@
-.clock{
+body{
     text-align: center;
+}
+.clock{
     color: cornflowerblue;
 }
 .clockword{
-    text-align: center;
     color: gray;
     font-size: 14px;
     font-weight: bolder;
