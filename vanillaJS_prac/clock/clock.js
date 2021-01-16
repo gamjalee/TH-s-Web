@@ -13,7 +13,7 @@ function getTime(){
         clockword.innerHTML=`이 이른 시각에 코딩을 하시는군요.`;
     else if(hour<12)
         clockword.innerHTML=`점심 먹기 전에 가볍게 백준 풀어볼까요?`;
-    else if(hour<18)
+    else if(hour<17)
         clockword.innerHTML=`남들이 한창 일할 시간, 우리는 코딩해볼까`;
     else
         clockword.innerHTML=`이번 주 풀어야 할 문제, 오늘 다 끝내볼까요?`;
