@@ -3,8 +3,14 @@
  - Introduce only five major files in Readme. 
  - If a new project is uploaded, readme may change because of variation of rank.
  - kth990303 is <strong>NEWBIE WEB PROGRAMMER!</strong>
+ 
+<hr>
+
 ### Settings
-Window 10 / VS Code / Chrome Browser
+ - Window 10
+ - VS Code
+ - Chrome Browser
+ 
 <hr>
 
 ### 1. Node.js Web Server
@@ -20,6 +26,6 @@ Window 10 / VS Code / Chrome Browser
  - 02.2021 Image upload scheduled
 ### 5. Back: Node.js, Front: CSS, Vanilla JS, Ajax (private, -ing)
  - 06.2021 Image upload scheduled
-### exc...
+### And there are many Miscellaneous Exercise Files...
 
 
