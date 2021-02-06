@@ -23,7 +23,9 @@
 ### 3. html homepage to introduce myself (private)
  - [Miscellaneous Exercise Files] https://github.com/kth990303/TH-s-Web/tree/master/practice
 ### 4. Vanilla JS Web Game: TicTacToe
- - 02.2021 Image upload scheduled
+ - <img width="304" alt="tictactoe" src="https://user-images.githubusercontent.com/57135043/107116784-f5ada080-68b8-11eb-9726-f9f83cbff059.png">
+ - ver 0.9.0 (some bugs exist)
+ - simple Vanilla JS, so cannot multi play
 ### 5. Back: Node.js, Front: CSS, Vanilla JS, Ajax (private, -ing)
  - 06.2021 Image upload scheduled
 ### And there are many Miscellaneous Exercise Files...
