@@ -1,4 +1,4 @@
-# kth990303's Web practice
+# kth990303's Javascript Practice for Web
  ### This repository has everything from major files to miscellaneous files.
  - Introduce only five major files in Readme. 
  - If a new project is uploaded, readme may change because of variation of rank.
