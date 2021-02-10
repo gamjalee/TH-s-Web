@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Edit Page</title>
+    <style>
+        body{
+            background-color: black;
+            color: white;
+            font-weight: bold;
+            font-family:Arial, Helvetica, sans-serif;
+        }
+        td{
+            text-align: center;
+        }
+        label{
+            text-align:left;
+        }
+    </style>
+</head>
+<body>
+    <h1>Edit Page</h1>
+    <hr>
+    <form method="POST">
+        <fieldset>
+            <legend>Edit Data</legend>
+            <table>
+                <tr>
+                    <td><label>ID</label></td>
+                    <td><input type="text" name="id" value="<%=data.id %>" disabled></td>
+                </tr>
+                <tr>
+                    <td><label>Name</label></td>
+                    <td><input type="text" name="name" value="<%=data.name %>"></td>
+                </tr>
+                <tr>
+                    <td><label>Model Number</label></td>
+                    <td><input type="text" name="modelnumber" value="<%=data.modelnumber %>"></td>
+                </tr>
+                <tr>
+                    <td><label>Series</label></td>
+                    <td><input type="text" name="series" value="<%=data.series %>"></td>
+                </tr>
+            </table>
+            <input type="submit" value="제출">
+        </fieldset>
+    </form>
+</body>
+</html>
