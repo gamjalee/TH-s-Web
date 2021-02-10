@@ -10,11 +10,19 @@
  - Window 10
  - VS Code
  - Chrome Browser
+ - npm 6.14.10
+ - Node v14.15.4
+ - MySQL 8.0.19
  
 <hr>
 
 ### 1. Node.js Web Server
- - 03.2021 Image upload scheduled
+ - [Node.js CRUD bullein]<img width="959" alt="nodejsCrud" src="https://user-images.githubusercontent.com/57135043/107467924-68b16280-6baa-11eb-9c9a-bea2af09e9c7.png">
+ - Express4 module
+ - MySQL 8.0.19
+ - Practice MySQL + Node.js! (02.10.2021)
+ - Practice gitignore file (And erase client mysql password)
+ - My first mysql+node.js. I' planning to continue to grow.
 ### 2. Clock : Baekjoon Study Homepage clock
  - <img width="495" alt="clock_index" src="https://user-images.githubusercontent.com/57135043/107109376-4f937380-6883-11eb-991d-5be40b4080e9.png">
  - Simple Html, Css, Vanilla JS
