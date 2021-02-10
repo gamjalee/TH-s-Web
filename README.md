@@ -17,7 +17,8 @@
 <hr>
 
 ### 1. Node.js Web Server
- - [Node.js CRUD bullein]<img width="959" alt="nodejsCrud" src="https://user-images.githubusercontent.com/57135043/107467924-68b16280-6baa-11eb-9c9a-bea2af09e9c7.png">
+ - <img width="959" alt="nodejsCrud" src="https://user-images.githubusercontent.com/57135043/107467924-68b16280-6baa-11eb-9c9a-bea2af09e9c7.png">
+ - [Node.js CRUD bullein] https://github.com/kth990303/TH-s-Web/tree/master/nodeJS/Yoon/firstSql
  - Express4 module
  - MySQL 8.0.19
  - Practice MySQL + Node.js! (02.10.2021)
